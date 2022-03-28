@@ -7,3 +7,11 @@ Forest fires are caused by Natural causes as well as Man made causes
 Natural causes - Many forest fires start from natural causes such as lightning which set trees on fire. However, rain extinguishes such fires without causing much damage. High atmospheric temperatures and dryness (low humidity) offer favorable circumstance for a fire to start.
 
 Man made causes - Fire is caused when a source of fire like naked flame, cigarette or bidi, electric spark or any source of ignition comes into contact with inflammable material.
+
+Programming Language Used:- Python
+
+IDE:- Google Colab
+
+Dataset:- https://drive.google.com/drive/folders/1yX6VOQCAkVjsS_tDq9B_P7f1IijE1GA9?usp=sharing
+
+Data classifier:- 2 [Fire & Non Fire]
